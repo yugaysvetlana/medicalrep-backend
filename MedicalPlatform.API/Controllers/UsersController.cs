@@ -26,7 +26,7 @@ namespace MedicalPlatform.API.Controllers
             var token = await usersService.Login(request.UserName, request.Password);
             return Results.Ok(token);
         }
-
+        [Authorize]
         [HttpGet]
         public IResult SayHello()
         {
