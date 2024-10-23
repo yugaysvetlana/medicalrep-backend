@@ -1,0 +1,15 @@
+D:\Projects\Backend\MedicalPlatform.API\MedicalPlatform.Application\bin\Debug\net8.0\MedicalPlatform.Application.deps.json
+D:\Projects\Backend\MedicalPlatform.API\MedicalPlatform.Application\bin\Debug\net8.0\MedicalPlatform.Application.dll
+D:\Projects\Backend\MedicalPlatform.API\MedicalPlatform.Application\bin\Debug\net8.0\MedicalPlatform.Application.pdb
+D:\Projects\Backend\MedicalPlatform.API\MedicalPlatform.Application\bin\Debug\net8.0\MedicalPlatform.Core.dll
+D:\Projects\Backend\MedicalPlatform.API\MedicalPlatform.Application\bin\Debug\net8.0\MedicalPlatform.Core.pdb
+D:\Projects\Backend\MedicalPlatform.API\MedicalPlatform.Application\obj\Debug\net8.0\MedicalPlatform.Application.csproj.AssemblyReference.cache
+D:\Projects\Backend\MedicalPlatform.API\MedicalPlatform.Application\obj\Debug\net8.0\MedicalPlatform.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Backend\MedicalPlatform.API\MedicalPlatform.Application\obj\Debug\net8.0\MedicalPlatform.Application.AssemblyInfoInputs.cache
+D:\Projects\Backend\MedicalPlatform.API\MedicalPlatform.Application\obj\Debug\net8.0\MedicalPlatform.Application.AssemblyInfo.cs
+D:\Projects\Backend\MedicalPlatform.API\MedicalPlatform.Application\obj\Debug\net8.0\MedicalPlatform.Application.csproj.CoreCompileInputs.cache
+D:\Projects\Backend\MedicalPlatform.API\MedicalPlatform.Application\obj\Debug\net8.0\MedicalP.5D73BED8.Up2Date
+D:\Projects\Backend\MedicalPlatform.API\MedicalPlatform.Application\obj\Debug\net8.0\MedicalPlatform.Application.dll
+D:\Projects\Backend\MedicalPlatform.API\MedicalPlatform.Application\obj\Debug\net8.0\refint\MedicalPlatform.Application.dll
+D:\Projects\Backend\MedicalPlatform.API\MedicalPlatform.Application\obj\Debug\net8.0\MedicalPlatform.Application.pdb
+D:\Projects\Backend\MedicalPlatform.API\MedicalPlatform.Application\obj\Debug\net8.0\ref\MedicalPlatform.Application.dll
